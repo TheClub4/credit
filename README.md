@@ -54,4 +54,4 @@ Number: foo
 Number: 4003600000000014
 VISA
 ```
-Test out your program with a whole bunch of inputs, both valid and invalid. Here are a <a href=".https://developer.paypal.com/docs/payflow/payflow-pro/payflow-pro-testing/#credit-card-numbers-for-testing" target="_top">few card numbers</a> that PayPal recommends for testing.
+Test out your program with a whole bunch of inputs, both valid and invalid. Here are a [few card numbers](https://developer.paypal.com/docs/payflow/payflow-pro/payflow-pro-testing/#credit-card-numbers-for-testing) that PayPal recommends for testing.
